@@ -1,0 +1,44 @@
+.onBoarding {
+    height: 100vh;
+}
+
+.ant-layout {
+    height: 100vh;
+    background-image: url('../../assets/Picture1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+h2{
+    margin-top: 20px;
+    text-align: center;
+}
+h3{
+    margin-bottom: 30px;
+}
+
+.dynamicForm{
+    margin-top: 35px;
+    flex-direction: column;
+    display: flex;
+    align-items:flex-start;
+    justify-content: center;
+}
+
+.ant-form{
+    margin-top: 30px;
+}
+
+.onboardingSider{
+    
+  background-color: #E9EEF4 !important;
+  padding: 20px;
+}
+
+
+
+
+
+

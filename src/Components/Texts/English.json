@@ -1,0 +1,14 @@
+{
+    "productName" : "Financial Product",
+    "welcome" : "Hello, Welcome Back!",
+    "login" : "Login",
+    "createAccount" : "Create an account",
+    "forgotPassword" : "Forgot Password?",
+    "loginSubHeading" : "Log-in with your data that you have entered during your registration",
+    "resendVerification" : "Resend verification code",
+    "signupSubHeading" : "Sign up",
+    "signupInfo": "Please fill in your details for the registration and begin setting up your profile",
+    "backToLogin": "Already have an account?",
+    "passwordReset" : "The link to reset your password will be sent to your mailbox. Please check it.",
+    "resetLink" : "Send reset link"
+}
