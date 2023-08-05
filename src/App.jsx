@@ -9,9 +9,7 @@ function App() {
     <>
       <div>
         {/* <OnboardingLayout/> */}
-        {/* <AdditionalFieldTextBox/> */}
         <AppLayout/>
-        {/* <AdditionalFieldAddButton/> */}
 
       </div>
     </>

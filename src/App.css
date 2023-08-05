@@ -1,12 +1,12 @@
 .ant-form {
-    width: 100%;
-  }
-  
-  .ant-btn-primary{
-    background-color: #E75624;
-  }
-  
-  .ant-btn-primary> span{
-    color: white;
-    font-weight: 500;
-  }
+  width: 100%;
+}
+
+.ant-btn-primary {
+  background-color: #E75624;
+}
+
+.ant-btn-primary>span {
+  color: white;
+  font-weight: 500;
+}
